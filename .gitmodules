@@ -1,3 +1,0 @@
-[submodule "src/sawyer_simulator"]
-	path = src/sawyer_simulator
-	url = https://github.com/RethinkRobotics/sawyer_simulator.git
